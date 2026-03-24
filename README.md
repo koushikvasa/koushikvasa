@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Koushik+Vasa+👋;AI+%2F+ML+Engineer;Full-Stack+Developer;Building+AI+that+ships." alt="Typing SVG" />
+# Hi, I'm Koushik Vasa 👋
+### AI / ML Engineer · Full-Stack Developer · Building AI that ships.
 
 <br/>
 
@@ -29,6 +29,8 @@ I'm an **AI/ML Engineer & Full-Stack Developer** with an **MS in CS (Machine Lea
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
+| [**Sonus**](https://github.com/koushikvasa/sonus) 🏥🎙️ | AI clinical voice intake — conducts a structured pre-consultation voice interview with hospital patients, then auto-generates a physician-ready SOAP note using Claude Sonnet; supports 6 simulated patient cases + custom clinical context upload | Next.js, Vapi, Claude Sonnet, Tavily, Framer Motion |
+| [**DryRun**](https://github.com/koushikvasa/dry-run) 🎙️ | Voice AI workplace simulator — practice hard conversations (raises, resignations, feedback) against an AI that plays the other person with real-time tactic detection and post-session debrief scoring | Next.js, Vapi, GPT-4o, Cartesia voice cloning, Tavily |
 | [**ClearCare**](https://github.com/koushikvasa/clearcare) 🏥 | AI Medicare cost navigator — 8-node LangGraph pipeline maps symptoms → procedures → real out-of-pocket costs across 2.8M+ CMS providers | Next.js 14, FastAPI, LangGraph, GPT-4o, Supabase |
 | [**MediConnect**](https://github.com/koushikvasa/mediconnect) ⚡ | AI healthcare platform matching patients to providers in **<500ms** via custom stream processing over a 704MB dataset | React, FastAPI, Gemini API |
 | [**CitationSleuth**](https://github.com/koushikvasa/CitationSlueth) 🔍 | Dual-layer RAG fact-checking system using Neo4j graph retrieval + semantic similarity to detect LLM hallucinations on 1,000+ HaluEval samples | Python, Neo4j, HuggingFace, Streamlit |
